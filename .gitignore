@@ -1,0 +1,10 @@
+*\.coverage
+*\.egg-info/
+*\.pyc
+*coverage/
+\.tox/
+dist/
+docs/_build/
+htmlcov/
+\.cache/
+\.idea/

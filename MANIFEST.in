@@ -1,0 +1,10 @@
+include AUTHORS
+include LICENSE.md
+include DESCRIPTION
+include README.rst
+include tox.ini
+include requirements.txt
+graft gcreate
+global-exclude *.orig *.pyc *.log *.swp
+prune gcreate/tests/coverage
+prune gcreate/.ropeproject
