@@ -1,9 +1,6 @@
 gcreate
 ============
 
-A command-line utility to bootstrap GitHub repositories with labels and
-webhooks.
-
 Installation
 ------------
 
